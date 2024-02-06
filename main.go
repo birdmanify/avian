@@ -15,7 +15,8 @@ import (
 )
 
 func main() {
-	panic("Stub!")
+	println("This is avian library code, not a finished product.")
+	panic("Please Write other main function by yourself!")
 }
 
 //export coreInit
